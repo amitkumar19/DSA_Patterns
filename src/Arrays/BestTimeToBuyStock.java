@@ -1,5 +1,5 @@
 package Arrays;
-
+//https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
 public class BestTimeToBuyStock {
     static void main() {
         maxProfit(new int[]{1, 3, 4, 5, 6, 7, 8, 9});
